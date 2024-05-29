@@ -17,7 +17,6 @@ This project is about the process of building an ELT pipeline using industry-sta
 - Implementing generic and singular tests.
 - Deploying models using Airflow.
 
-## Timestamps ⏰
 [Video Link](https://www.youtube.com/watch?v=OLXkGB7krGo)
 
 ## Getting Started
